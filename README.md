@@ -114,5 +114,6 @@ I specialize in **Cloud Security** (AWS/Kubernetes) and leverage **Data Science*
 | ✅ | **Certified SOC Analyst (Level 1)** | MST College |
 | ✅ | **Google Cybersecurity Professional** | Google |
 | ✅ | **Azure AI Fundamentals** | Microsoft |
-| ✅ | **CompTIA Security+** | CompTIA (Expected May 2025) |
+| ✅ | **CompTIA Security+** | CompTIA |
 | 📅 | **CKA & CKAD (Kubernetes)** | CNCF (Planned 2026) |
+| 📅 | **Blue Team Level 1** | Security Blue Team (Planned 2026) |
