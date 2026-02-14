@@ -23,12 +23,12 @@
 
 ### 👨‍💻 Executive Summary
 
-I am a **Master's student in Cyber Security** at the University of Kent, transitioning from a background in **Business Administration**. This unique combination allows me to align technical security operations (SecOps) with organizational risk management strategies.
+Security Operations (SecOps) specialist and Cloud Engineer with a Master's in Cyber Security from the University of Kent. I bridge the gap between technical security implementation and organizational risk management, leveraging a unique background in Business Administration.
 
-I specialize in **Cloud Security** (AWS/Kubernetes) and leverage **Data Science** (Python/SQL) to automate threat detection, reduce false positives, and streamline log analysis.
+My expertise lies in **Cloud Native Security** (Kubernetes/AWS) and **Data-Driven Defense**, utilizing Python and SQL to engineer automated threat detection systems, minimize false positives, and orchestrate advanced log analysis workflows.
 
-- 🔭 **Current Focus:** Developing automated honeypots and advanced SIEM rulesets.
-- 🌱 **Learning:** Kubernetes Security (CKS) & Infrastructure as Code (Terraform).
+- 🔭 **Current Focus:** Engineering automated high-interaction honeypots and developing advanced detection engineering rulesets.
+- 🌱 **Learning:** Advanced Blue Team Operations (BTL1).
 - 🛡️ **CTF Rank:** Top 2% Global on TryHackMe.
 - 📍 **Location:** Canterbury, United Kingdom.
 
@@ -70,7 +70,7 @@ I specialize in **Cloud Security** (AWS/Kubernetes) and leverage **Data Science*
         <img src="https://img.shields.io/badge/Wazuh-blue?style=flat&logo=wazuh" />
       </div>
       <br>
-      <p align="center">Deployed a home lab environment simulating corporate network attacks. Configured <b>Wazuh</b> for File Integrity Monitoring (FIM) and <b>Splunk</b> for log ingestion, successfully detecting brute-force attempts and generating alerts.</p>
+      <p align="center"><b>Engineered</b> a comprehensive home lab environment to simulate sophisticated corporate network attacks. <b>Deployed</b> Wazuh for real-time File Integrity Monitoring (FIM) and integrated Splunk for centralized log ingestion, successfully detecting brute-force vectors and automating alert generation.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">☁️ Secure Cloud Infrastructure</h3>
@@ -79,7 +79,7 @@ I specialize in **Cloud Security** (AWS/Kubernetes) and leverage **Data Science*
         <img src="https://img.shields.io/badge/Terraform-purple?style=flat&logo=terraform" />
       </div>
       <br>
-      <p align="center">Architected secure AWS VPCs with public/private subnets. Implemented <b>Infrastructure as Code (IaC)</b> using Terraform and applied strict IAM policies to ensure least-privilege access.</p>
+      <p align="center"><b>Architected</b> highly available, secure AWS VPCs featuring segmented public/private subnets. <b>Implemented</b> Infrastructure as Code (IaC) using Terraform, enforcing strict IAM policies to adhere to least-privilege principles and ensure robust access control.</p>
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ I specialize in **Cloud Security** (AWS/Kubernetes) and leverage **Data Science*
         <img src="https://img.shields.io/badge/Deep_Learning-red?style=flat" />
       </div>
       <br>
-      <p align="center">Developed a semantic segmentation model using encoder-decoder architectures to distinguish between object pixels. Demonstrates capability in handling complex data arrays and matrices.</p>
+      <p align="center"><b>Developed</b> a semantic segmentation model utilizing advanced encoder-decoder architectures for precise object pixel classification. Demonstrates proficiency in manipulating complex multi-dimensional data arrays and optimizing neural network performance.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🐍 Security Automation Bots</h3>
@@ -99,7 +99,7 @@ I specialize in **Cloud Security** (AWS/Kubernetes) and leverage **Data Science*
         <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask" />
       </div>
       <br>
-      <p align="center">Built Python automation tools for data scraping and a Flask-based authentication service implementing <b>JWT (JSON Web Token)</b> security for session management.</p>
+      <p align="center"><b>Built</b> robust Python automation tools for high-volume data scraping and designed a secure Flask-based authentication service implementing <b>JWT (JSON Web Token)</b> standards for stateless session management.</p>
     </td>
   </tr>
 </table>
@@ -110,10 +110,11 @@ I specialize in **Cloud Security** (AWS/Kubernetes) and leverage **Data Science*
 
 | Status | Certification | Issuer |
 | :---: | :--- | :--- |
+| ✅ | **Certified Kubernetes Administrator (CKA)** | CNCF |
+| ✅ | **Certified Kubernetes Application Developer (CKAD)** | CNCF |
 | ✅ | **AWS Certified Cloud Practitioner** | Amazon Web Services |
 | ✅ | **Certified SOC Analyst (Level 1)** | MST College |
 | ✅ | **Google Cybersecurity Professional** | Google |
 | ✅ | **Azure AI Fundamentals** | Microsoft |
 | ✅ | **CompTIA Security+** | CompTIA |
-| 📅 | **CKA & CKAD (Kubernetes)** | CNCF (Planned 2026) |
-| 📅 | **Blue Team Level 1** | Security Blue Team (Planned 2026) |
+| 🔄 | **Blue Team Level 1** | Security Blue Team (In Progress) |
